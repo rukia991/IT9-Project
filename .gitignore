@@ -19,3 +19,5 @@ yarn-error.log
 /public/build
 .idea/
 .qodo
+package-lock.json
+public/hot
